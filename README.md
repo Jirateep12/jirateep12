@@ -72,4 +72,4 @@
 ### # Support:
 <a href="https://www.buymeacoffee.com/jirateep12"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jirateep12" /></a>
 
-<a href="https://ko-fi.com/ko-fi.com/jirateep12"><img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/jirateep12" /></a>
+<a href="https://ko-fi.com/jirateep12"><img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/jirateep12" /></a>
